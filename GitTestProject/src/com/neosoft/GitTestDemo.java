@@ -6,7 +6,7 @@ public class GitTestDemo {
 		// TODO Auto-generated method stub
       System.out.print("GitTest Testing1");
       String str="SE";
-      if(str=="SE")
+      if(str=="SE"||str=="se")
       {
     	  System.out.print("Software engneer");
       }
